@@ -1,0 +1,6 @@
+{
+	"ip":"newopgameplay.aternos.me",
+	"port": "64609",
+	"name": "Server
+"
+}
